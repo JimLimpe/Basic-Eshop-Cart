@@ -8,7 +8,7 @@ My main purpose was to practice with Javascript:
 👉🏼 Learn more about methods (push, reduce)
 👉🏼 Proper use of EventListeners and Event Delegation
 
-Iw ould definetely return in a similar project to implement: 
+I would definetely return in a similar project to implement: 
 
 Responsive Images for the products
 Quantity manipulation
